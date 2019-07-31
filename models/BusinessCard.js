@@ -5,9 +5,9 @@ const roles = ['Salesman', 'CTO','CFO','CEO','Customer Service','Owner']
 //Business
 const titles = ['Big ', 'Lil ','Dr ',''];
 const adjectives = ['Big Ol', 'Perfect', 'Budget','Luxury','Rock Solid', 'Top Notch', 'Extravagant', 'Family', 'Discount','Rental',''];
-const nouns = ['Rocks', 'Signs','Pizza','Fans','Bakery','Landscaping','Services','Cleaning', 'Brakes','Private Investigation'];
-const companyType =[', INC', ', LLC',', CO', '']
-const domainTypes = ['com','net','org','co']
+const nouns = ['Rocks','Signs','Pizza','Fans','Bakery','Landscaping','Services','Cleaning', 'Brakes','Private Investigation'];
+const companyType =[', INC', ', LLC',', Co', '']
+const domainTypes = ['com','net','org']
 const areaCodes = ['615','650','202','310','917','718','512','312','415','305','617'];
 const backgroundImageURLs = [
     'https://png.pngtree.com/thumb_back/fh260/back_pic/04/32/47/035843e833dd111.jpg',
