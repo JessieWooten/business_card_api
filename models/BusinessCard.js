@@ -1,6 +1,6 @@
 //Person
-const firstNames = ['Kyra','James','Andrea','Rob','Brandon','Rapheal','Jessie','Cindy','Warren','Jack'];
-const lastNames = ['Davis','Downs','Estrada','Franco','Pullen','Dabney','Wooten','Escobar','Cardenas','Sadler','Sandler'];
+const firstNames = ['Kyra','James','Andrea','Rob','Brandon','Rapheal','Jessie','Cindy','Warren','Jack','Joey'];
+const lastNames = ['Davis','Downs','Estrada','Franco','Pullen','Dabney','Wooten','Escobar','Cardenas','Sadler','Sandler','Fitzpatrick'];
 const roles = ['Salesman', 'CTO','CFO','CEO','Customer Service','Owner']
 //Business
 const titles = ['Big ', 'Lil ','Dr ',''];
